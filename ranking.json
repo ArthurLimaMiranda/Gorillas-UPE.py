@@ -1,0 +1,173 @@
+[
+    {
+        "NomePlayer1": "Joao",
+        "ScorePlayer1": 3,
+        "NomePlayer2": "Teste2",
+        "ScorePlayer2": 2,
+        "Rodadas": 2,
+        "Vencedor": "Joao",
+        "Desafios": "2"
+    },
+    {
+        "NomePlayer1": "Teste",
+        "ScorePlayer1": 0,
+        "NomePlayer2": "Pedro",
+        "ScorePlayer2": 5,
+        "Rodadas": 1,
+        "Vencedor": "Pedro",
+        "Desafios": "2"
+    },
+    {
+        "NomePlayer1": "Pedro",
+        "ScorePlayer1": 3,
+        "NomePlayer2": "Teste2",
+        "ScorePlayer2": 1,
+        "Rodadas": 1,
+        "Vencedor": "Pedro",
+        "Desafios": "2"
+    },
+    {
+        "NomePlayer1": "Teste",
+        "ScorePlayer1": 0,
+        "NomePlayer2": "Joao",
+        "ScorePlayer2": 1,
+        "Rodadas": 1,
+        "Vencedor": "Joao",
+        "Desafios": "2"
+    },
+    {
+        "NomePlayer1": "Joao",
+        "ScorePlayer1": 3,
+        "NomePlayer2": "Teste2",
+        "ScorePlayer2": 1,
+        "Rodadas": 1,
+        "Vencedor": "Joao",
+        "Desafios": "2"
+    },
+    {
+        "NomePlayer1": "Teste",
+        "ScorePlayer1": 0,
+        "NomePlayer2": "Carlos",
+        "ScorePlayer2": 1,
+        "Rodadas": 1,
+        "Vencedor": "Carlos",
+        "Desafios": "2"
+    },
+    {
+        "NomePlayer1": "Teste",
+        "ScorePlayer1": 0,
+        "NomePlayer2": "Carlos",
+        "ScorePlayer2": 2,
+        "Rodadas": 1,
+        "Vencedor": "Carlos",
+        "Desafios": "2"
+    },
+    {
+        "NomePlayer1": "Carlos",
+        "ScorePlayer1": 5,
+        "NomePlayer2": "Teste2",
+        "ScorePlayer2": 1,
+        "Rodadas": 1,
+        "Vencedor": "Carlos",
+        "Desafios": "2"
+    },
+    {
+        "NomePlayer1": "Teste",
+        "ScorePlayer1": 0,
+        "NomePlayer2": "Carlos",
+        "ScorePlayer2": 1,
+        "Rodadas": 1,
+        "Vencedor": "Carlos",
+        "Desafios": "2"
+    },
+    {
+        "NomePlayer1": "Teste",
+        "ScorePlayer1": 0,
+        "NomePlayer2": "Carlos",
+        "ScorePlayer2": 1,
+        "Rodadas": 1,
+        "Vencedor": "Carlos",
+        "Desafios": "2"
+    },
+    {
+        "NomePlayer1": "Teste",
+        "ScorePlayer1": 0,
+        "NomePlayer2": "Digo",
+        "ScorePlayer2": 1,
+        "Rodadas": 1,
+        "Vencedor": "Digo",
+        "Desafios": "2"
+    },
+    {
+        "NomePlayer1": "Teste",
+        "ScorePlayer1": 0,
+        "NomePlayer2": "Tugo",
+        "ScorePlayer2": 1,
+        "Rodadas": 1,
+        "Vencedor": "Tugo",
+        "Desafios": "2"
+    },
+    {
+        "NomePlayer1": "Teste",
+        "ScorePlayer1": 0,
+        "NomePlayer2": "Tango",
+        "ScorePlayer2": 1,
+        "Rodadas": 1,
+        "Vencedor": "Tango",
+        "Desafios": "2"
+    },
+    {
+        "NomePlayer1": "Teste",
+        "ScorePlayer1": 0,
+        "NomePlayer2": "Tengo",
+        "ScorePlayer2": 1,
+        "Rodadas": 1,
+        "Vencedor": "Tengo",
+        "Desafios": "2"
+    },
+    {
+        "NomePlayer1": "Teste",
+        "ScorePlayer1": 0,
+        "NomePlayer2": "Tengo",
+        "ScorePlayer2": 1,
+        "Rodadas": 1,
+        "Vencedor": "Tengo",
+        "Desafios": "2"
+    },
+    {
+        "NomePlayer1": "Teste",
+        "ScorePlayer1": 1,
+        "NomePlayer2": "Teste",
+        "ScorePlayer2": 0,
+        "Rodadas": 1,
+        "Vencedor": "Teste",
+        "Desafios": "2"
+    },
+    {
+        "NomePlayer1": "Teste",
+        "ScorePlayer1": 0,
+        "NomePlayer2": "Teste",
+        "ScorePlayer2": 1,
+        "Rodadas": 1,
+        "Vencedor": "Teste",
+        "Desafios": "12"
+    },
+    {
+        "NomePlayer1": "Teste",
+        "ScorePlayer1": 1,
+        "NomePlayer2": "Teste",
+        "ScorePlayer2": 0,
+        "Rodadas": 1,
+        "Vencedor": "Teste",
+        "Desafios": "12"
+    },
+    {
+        "NomePlayer1": "Teste",
+        "ScorePlayer1": 0,
+        "NomePlayer2": "Teste",
+        "ScorePlayer2": 1,
+        "Rodadas": 1,
+        "Vencedor": "Teste",
+        "Desafios": "0"
+    }
+]
